@@ -1,7 +1,7 @@
 {
   "name": "TerminateWFParallel_26Jan2022_2007",
   "description": "UiPath terminate workflow parallely after a certain activity is performed",
-  "main": "Main.xaml",
+  "main": "DR-LDR.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[21.10.4]"
   },
